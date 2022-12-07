@@ -32,10 +32,8 @@
   <br>
 </h1>
 
- - Domains deleted in mailgun but MX records held
- - Reclaiming domain automatically
- - Unregistered/expire MX domain
- - MX Domain that will expire soon
+ - Unregistered/expire MX/SPF domain
+ - MX/SPF Domain that will expire soon
  - Domains that used same MX records
  - Saving scan results as json format
  - Support for concurrency
